@@ -8,7 +8,7 @@ The abstractions and the fundamentals essentially and first principles of RDMS
 [Partitioning and Sharding](./Partitioning_Sharding.md)
 
 
-[Replication](./Indexing.Replication.md)
+[Replication](./Replication.md)
 
 [Multi-Version Concurrency Control](./ConcurrencyControl.md)
 
